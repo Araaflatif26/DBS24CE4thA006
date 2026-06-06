@@ -1,6 +1,11 @@
 School Management System
 CMPE-232 Term Project
 University of Engineering and Technology, Lahore
+BY:
+IRAF LATIF (2024-CE-44)
+Muhammad Daood (2024-CE-53)
+Umer Hayat (2024-CE-48)
+Ammar Syed (2024-CE-52)
 ---
  Project Overview
 A complete School Management System built with C# Windows Forms and MySQL (Workbench).
